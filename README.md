@@ -1,2 +1,2 @@
-# Clase30_V1EA
-Student Activity
+# AngryBirdsEtapa3
+Angry Birds Etapa 3: Introduciendo la Restricción
